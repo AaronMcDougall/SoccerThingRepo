@@ -311,7 +311,11 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: af16f95e298222c459c58b3f3fd487ff, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  newWhistle: {fileID: 1069339159311274484, guid: 79334e5f5a26cfd41b03d5a593cd8851, type: 3}
+  newWhistle: {fileID: 1601653868235646644, guid: 60d730217c47aaf4899ccd2a27263d87, type: 3}
+  umpPos: {x: 0, y: 0, z: 0}
+  umpOffset: 0
+  umpZ: 0
+  newWhistlePos: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
